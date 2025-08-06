@@ -1,8 +1,8 @@
-✅ Todo Task Management App
+ Todo Task Management App
 
 A cross-platform mobile app built using Flutter for the Katomaran Hackathon. It allows users to manage personal tasks with full CRUD operations and Google login.
 
-🚀 Features
+ Features
 
 - Google Authentication
 - Create, Read, Update, Delete Tasks
@@ -12,7 +12,7 @@ A cross-platform mobile app built using Flutter for the Katomaran Hackathon. It 
 - Floating Action Button (FAB) for adding tasks
 - Firebase Crashlytics integration
 
-📱 Tech Stack
+ Tech Stack
 
 - Flutter & Dart  
 - Firebase Authentication  
@@ -23,14 +23,14 @@ A cross-platform mobile app built using Flutter for the Katomaran Hackathon. It 
 
 Follows MVVM (Model-View-ViewModel) design pattern with modular and scalable folder structure.
 
-📌 Assumptions
+ Assumptions
 
 - Only Google Sign-In is implemented  
 - Tasks are stored locally within the session  
 - Priority is shown visually but not used for sorting  
 - The UI design is based on Figma references
 
- 🛠 Setup
+  Setup
 
 ```bash
 git clone https://github.com/your-username/todo-app.git
